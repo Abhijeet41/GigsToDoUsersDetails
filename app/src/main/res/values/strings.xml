@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BookDetails</string>
+    <string name="name">Name</string>
+    <string name="enterName">Please Enter Your Name</string>
+    <string name="enterNumber">Please Enter Your Number</string>
+    <string name="sample_name">Abhijeet</string>
+    <string name="sample_number">8355942271</string>
+    <string name="sample_book">Book A</string>
+
+    <string-array name="BooksItems">
+        <item>Book A</item>
+        <item>Book B</item>
+        <item>Book C</item>
+    </string-array>
+
+</resources>
